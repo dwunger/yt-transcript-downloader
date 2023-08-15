@@ -1,0 +1,3 @@
+*.json
+transcripts/
+__pycache__/
